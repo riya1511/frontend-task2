@@ -1,0 +1,15 @@
+.dropdown {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .dropdown {
+        outline: none;
+        height: 100px;
+        width: 120px;
+        background-color: transparent;
+        color: #6F7378;
+        /* border-bottom: 1.5px solid white; */
+    }
+    
+}
